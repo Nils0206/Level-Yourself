@@ -3,16 +3,17 @@
   - Fix Window Größe
   - Dunkel Gehalten, Weiß umrandet
   - Rechteckig
-  -> Oberkategorien:
+-> Oberkategorien:
     - Namen / Art
     - Allgemeines Level
     - Progressbar
     - Emoji
-  -> Unterkategorien:
+-> Unterkategorien:
     - Namen
     - Level
     - Progressbar
     - Emoji
+
 -> Funktion:
   -> Main Window
    - Hinzufügen von Oberkategorien
@@ -20,10 +21,10 @@
        - Namen anpassen
        - Emoji ändern
        - Text farbe ändern
-  -> Oberkategorie
+-> Oberkategorie
        - Hinzufügen von Unterkategorien
        - Rechner / Festlegung für die Level
-  -> Unterkategorie
+-> Unterkategorie
        - Rechnung / Festlegung für Level
        - Namen ändern
        - Textfarbe ändern
